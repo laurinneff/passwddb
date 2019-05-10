@@ -1,6 +1,6 @@
 {
   "name": "passwddb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An API for password databases used by passwd.mgr",
   "main": "passwddb.js",
   "keywords": [
