@@ -1,6 +1,6 @@
 {
   "name": "passwddb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An API for password databases used by passwd.mgr",
   "main": "passwddb.js",
   "keywords": [
@@ -13,5 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "crypto-json": "^2.0.2"
-  }
+  },
+  "repository": "github:laurinneff/passwd.mgr"
 }
