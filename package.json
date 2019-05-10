@@ -14,5 +14,5 @@
   "dependencies": {
     "crypto-json": "^2.0.2"
   },
-  "repository": "github:laurinneff/passwd.mgr"
+  "repository": "github:laurinneff/passwddb"
 }
