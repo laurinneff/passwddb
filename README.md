@@ -1,0 +1,1 @@
+Please refer to the [documentation](https://github.com/laurinneff/passwddb/wiki) for help

@@ -1,0 +1,17 @@
+{
+  "name": "passwddb",
+  "version": "1.0.2",
+  "description": "An API for password databases used by passwd.mgr",
+  "main": "passwddb.js",
+  "keywords": [
+    "api",
+    "password",
+    "manager",
+    "password-manager"
+  ],
+  "author": "Laurin Neff",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-json": "^2.0.2"
+  }
+}
